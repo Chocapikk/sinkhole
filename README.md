@@ -37,7 +37,7 @@ This script requires the following Python libraries:
 You can install these libraries using pip:
 
 ```bash
-pip install install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Disclaimer
